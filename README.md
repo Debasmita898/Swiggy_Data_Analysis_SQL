@@ -6,7 +6,7 @@ food lovers and data analysts.
 The dataset, available in the swiggy.csv file, provides detailed information about a variety of restaurants, including 
 their unique identifiers, names, locations, cuisines, menus, and more. The schema of the dataset is organized as follows:
 
-•	restaurant_no: A unique identifier for each restaurant.
+•	restaurant_no: A unique identifier for each restaurant. <br>
 •	restaurant_name: The name of the restaurant.
 •	city: The city where the restaurant is located.
 •	address: The restaurant’s address.
