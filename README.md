@@ -1,7 +1,10 @@
 # Swiggy_Data_Analysis_SQL
-This project aims to explore and analyze a dummy dataset from Swiggy, a leading platform for restaurant discovery and food delivery. The objective is to leverage SQL queries to extract meaningful insights that will be valuable for both food lovers and data analysts.
+This project aims to explore and analyze a dummy dataset from Swiggy, a leading platform for restaurant discovery and 
+food delivery. The objective is to leverage SQL queries to extract meaningful insights that will be valuable for both 
+food lovers and data analysts.
 # Dataset
-The dataset, available in the swiggy.csv file, provides detailed information about a variety of restaurants, including their unique identifiers, names, locations, cuisines, menus, and more. The schema of the dataset is organized as follows:
+The dataset, available in the swiggy.csv file, provides detailed information about a variety of restaurants, including 
+their unique identifiers, names, locations, cuisines, menus, and more. The schema of the dataset is organized as follows:
 
 •	restaurant_no: A unique identifier for each restaurant.
 •	restaurant_name: The name of the restaurant.
@@ -16,7 +19,8 @@ The dataset, available in the swiggy.csv file, provides detailed information abo
 •	price: The price of the menu item.
 •	veg_or_nonveg: Indicates whether the item is vegetarian or non-vegetarian.
 
-This dataset offers a valuable resource for analyzing trends in restaurant offerings and customer preferences on the Swiggy platform.
+This dataset offers a valuable resource for analyzing trends in restaurant offerings and customer preferences 
+on the Swiggy platform.
 
 # Project Objectives
 •	Identifying the highest-rated restaurants to gain insights into customer preferences and quality benchmarks.
