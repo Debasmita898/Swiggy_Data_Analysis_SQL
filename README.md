@@ -28,3 +28,5 @@ on the Swiggy platform.
 •	Analyzing the most popular cuisines across different cities to align offerings with local tastes.<br>
 •	Examining menu categories and items to understand the variety and range of available options.<br>
 •	Evaluating the cost per person for dining to assess pricing strategies and affordability in various locations.<br>
+
+
