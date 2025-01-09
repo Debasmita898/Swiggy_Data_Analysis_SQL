@@ -30,7 +30,7 @@ on the Swiggy platform.
 •	Evaluating the cost per person for dining to assess pricing strategies and affordability in various locations.<br>
 
 # Data Analysis Using SQL Queries
-# Q1. HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5? <br>
+### Q1. HOW MANY RESTAURANTS HAVE A RATING GREATER THAN 4.5? <br>
 SELECT count(distinct restaurant_name) as High_rated_restaurants <br>
 FROM swiggy<br>
 WHERE rating>4.5; <br>
